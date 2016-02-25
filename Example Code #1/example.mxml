@@ -12,6 +12,9 @@
         <answer key="#1_3" nextQuestionKey="END">
             <text>1000¤500¤13¤Option</text>
         </answer>
+		<answer key="#1_4" nextQuestionKey="END">
+            <text>1000¤500¤13¤Option</text>
+        </answer>
     </question>
     <name>My Movelet</name>
 </movelet>
