@@ -1,0 +1,20 @@
+<movelet moveletKey="MOV01" moveletType="MULTI" initialQuestionKey="#1">
+    <question key="#1" type="13" title="My Screen">
+        <answer key="#1_0" attributeType="68" nextQuestionKey="END">
+            <text>100¤300¤</text>
+        </answer>
+        <answer key="#1_1" nextQuestionKey="END">
+            <text>0¤500¤20¤Option</text>
+        </answer>
+        <answer key="#1_2" nextQuestionKey="END">
+            <text>500¤500¤14¤Option</text>
+        </answer>
+        <answer key="#1_3" nextQuestionKey="END">
+            <text>1000¤500¤13¤Option</text>
+        </answer>
+		<answer key="#1_4 nextQuestionKey="END">
+            <text>1000¤500¤13¤Option</text>
+        </answer>
+    </question>
+    <name>My Movelet</name>
+</movelet>
